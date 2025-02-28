@@ -1,3 +1,5 @@
-# project_ppnchk
+# Báo cáo phương pháp nghiên cứu khoa học
 
-TUNG
+
+Học viên thực hiện: Nguyễn Vãn Tùng
+MSHV: 240202017
